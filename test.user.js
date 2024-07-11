@@ -2,7 +2,7 @@
 // @name         test
 // @namespace    http://tampermonkey.net/
 // @version      0.1.0
-// @description  test
+// @description  test 测试js
 // @author       helong
 // @match        *
 // @grant        none
