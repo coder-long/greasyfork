@@ -7,8 +7,8 @@
 // @match      *
 // @grant        none
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/499553/CoverMore%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7.user.js
-// @updateURL https://update.greasyfork.org/scripts/499553/CoverMore%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7.meta.js
+// @downloadURL https://update.greasyfork.org/scripts/500274/Web%20Hook%20Js%E9%80%86%E5%90%91%E7%BD%91%E7%AB%99%E9%92%A9%E5%AD%90.user.js
+// @updateURL https://update.greasyfork.org/scripts/500274/Web%20Hook%20Js%E9%80%86%E5%90%91%E7%BD%91%E7%AB%99%E9%92%A9%E5%AD%90.meta.js
 // ==/UserScript==
 
 (function () {
