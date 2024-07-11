@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         test
+// @name         test9999999
 // @namespace    http://tampermonkey.net/
 // @version      0.1.0
-// @description  test 测试js
+// @description  测试js
 // @author       helong
 // @match        *
 // @grant        none
